@@ -9,7 +9,7 @@
     
     cd /home
     
-    wget https://github.com/DRM-Scripts/o11-OTT-Streamer/blob/master/o11_streamer?raw=true
+    wget https://github.com/DRM-Scripts/o11-OTT-Streamer/blob/master/o11_streamer
     
     chmod 777 ./o11_streamer
     
