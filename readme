@@ -6,13 +6,10 @@
 # Install Instrustions
 
     sudo apt-get update
-    
     cd /home
-    
-    wget https://github.com/DRM-Scripts/o11-OTT-Streamer/blob/master/o11_streamer
-    
+    git clone https://github.com/DRM-Scripts/o11-OTT-Streamer
+    cd o11-OTT-Streamer
     chmod 777 ./o11_streamer
-    
     ./o11_streamer
 
 # Dashboard
