@@ -6,7 +6,7 @@
 '''
 sudo apt-get update
 cd /home
-wget URL
+wget https://github.com/DRM-Scripts/o11-OTT-Streamer/blob/master/o11_streamer?raw=true
 chmod 777 ./o11_streamer
 ./o11_streamer
 '''
